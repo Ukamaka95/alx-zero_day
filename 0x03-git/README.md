@@ -1,2 +1,1 @@
-My second README.md
-ALX is the new game.
+ALX, me again
